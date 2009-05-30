@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/habari-extras/!svn/ver/1142/plugins/markup/trunk/markitup/sets/default/images
+END
+link.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/link.png
+END
+bold.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/bold.png
+END
+preview.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/preview.png
+END
+clean.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/habari-extras/!svn/ver/1142/plugins/markup/trunk/markitup/sets/default/images/clean.png
+END
+image.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/image.png
+END
+italic.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/italic.png
+END
+stroke.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/stroke.png
+END
+picture.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/habari-extras/!svn/ver/401/plugins/markup/trunk/markitup/sets/default/images/picture.png
+END

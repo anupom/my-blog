@@ -1,0 +1,14 @@
+/**
+ * Internet Explorer Fix Stylesheet
+ * Theme Name: FadeIn
+ * URI: http://firmanw.com/habari-theme-fadein
+ * Version: 1.0-alpha
+ * Author: Firman Wandayandi
+ * Author URI: http://firmanw.com/
+ */
+input.button {
+	padding: 2px 0;
+}
+#comment-form-submit {
+	background-position: 90px top;
+}

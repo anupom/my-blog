@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/habari-extras/!svn/ver/1602/plugins/markup/trunk/markitup/parsers/textile
+END
+License.text
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/habari-extras/!svn/ver/1602/plugins/markup/trunk/markitup/parsers/textile/License.text
+END
+classTextile.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/habari-extras/!svn/ver/1602/plugins/markup/trunk/markitup/parsers/textile/classTextile.php
+END

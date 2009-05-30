@@ -1,0 +1,34 @@
+9
+
+dir
+1819
+http://svn.habariproject.org/habari-extras/plugins/markup/trunk/markitup/parsers
+http://svn.habariproject.org/habari-extras
+
+
+
+2009-02-13T16:23:57.488330Z
+1602
+rickc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f4a90942-1786-4aa1-b092-57c31935ddc3
+
+markdown
+dir
+
+textile
+dir
+

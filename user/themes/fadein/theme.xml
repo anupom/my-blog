@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme>
+	<name>FadeIn</name>
+	<author>Firman Wandayandi</author>
+	<url>http://firmanw.com/habari-theme-fadein</url>
+	<version>1.0.1-alpha</version>
+	<template_engine>rawphpengine</template_engine>
+	<description>FadeIn is a simple and clean grid based looks. It has been tested under Habari 0.6-alpha, also tested on Firefox 3.0.3, Opera 9.62, Safari 3.1.2, IE6 and IE7.</description>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+</theme>

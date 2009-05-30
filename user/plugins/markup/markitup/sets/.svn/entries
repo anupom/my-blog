@@ -1,0 +1,74 @@
+9
+
+dir
+1819
+http://svn.habariproject.org/habari-extras/plugins/markup/trunk/markitup/sets
+http://svn.habariproject.org/habari-extras
+
+
+
+2009-02-13T16:23:57.488330Z
+1602
+rickc
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f4a90942-1786-4aa1-b092-57c31935ddc3
+
+markdown
+dir
+
+toolbar settings
+file
+
+
+
+
+2009-05-29T10:53:54.000000Z
+a2e4822a98337283e39f7b60acf85ec9
+2008-11-13T01:52:42.761095Z
+1269
+chrismeller
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+default
+dir
+
+html
+dir
+
+textile
+dir
+

@@ -1,0 +1,50 @@
+/**
+ * Internet Explorer 6 Fix Stylesheet
+ * Theme Name: FadeIn
+ * URI: http://firmanw.com/habari-theme-fadein
+ * Version: 1.0-alpha
+ * Author: Firman Wandayandi
+ * Author URI: http://firmanw.com/
+ */
+
+input.button {
+	padding: 2px 0;
+}
+
+.top-col {
+	height: 133px;
+}
+
+.col2 {
+	width: 236px;
+}
+
+#navbar {
+	margin-top: 2px;
+	padding: 16px 0;
+}
+#search {
+	padding-top: 10px;
+	padding-bottom: 0;
+}
+#search-box span {
+	width: 40px;
+}
+#search-box input {
+	margin: 0;
+	width: 144px;
+}
+
+#flickr {
+	width: 237px;
+}
+
+.comment-box {
+	margin-top: -2px;
+}
+
+.clearfix {
+	clear:both;
+	height:1%;
+	overflow:hidden;
+}
