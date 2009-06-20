@@ -247,7 +247,8 @@ form {
 }
 .entry-title {
 	font-size: 36px;
-	margin: 0;
+	margin: 10px 0;
+    line-height:0.8;
 }
 .entry-title, .entry-title a, .entry-title a:hover {
 	color: #fff;
