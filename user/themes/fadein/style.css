@@ -315,10 +315,12 @@ a:hover.entry-commentcount {
 }
 .entry-tags li {
 	display: inline;
+    background:#535456;
+    padding:0px 3px;
+    text-decoration:none;
 }
 .entry-tags a {
 	color: #9cce2e;
-	border-bottom: 1px dotted #666;
 }
 .entry-tags a:hover {
 	color: #fff;
@@ -733,6 +735,15 @@ ul.success li {
 
 pre {
     padding:5px 10px;
+}
+
+pre.prettyprint{
+    font-family: Helvetica,"Sans-serif", Georgia;
+}
+
+em {
+    background:#535456;
+    padding:0 2px;
 }
 
 p#tagline {
