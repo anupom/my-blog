@@ -304,7 +304,7 @@ a:hover.entry-commentcount {
 }
 .entry-tags {
 	margin: 0;
-    background: transparent url(images/tag-25.png) no-repeat scroll left center;
+    background: transparent url(images/tags.png) no-repeat scroll left center;
     padding-left:37px;
     word-spacing:7px;
     margin-left:2px;
@@ -631,9 +631,9 @@ span.comment-corners-bottom span {
 }
 
 /* RECENT COMMENTS */
-#deliciousfeed li, #recentcomments li {
+#recentcomments li {
 	border-bottom: 1px solid #383838;
-		padding-bottom: .5em;
+    padding-bottom: .5em;
 	margin-bottom: .5em;
 }
 
@@ -676,6 +676,19 @@ h4#prompt {
 	border-bottom: 1px solid #383838;
 	margin-bottom: 1em;
 	padding-bottom: 1em;
+}
+
+div#findmein {
+    height:4.5em;
+}
+
+div#findmein a {
+    background-color:#FFF;
+    margin: 0 .5em;
+    padding:2px;
+    width:16px;
+    display:block;
+    float:left;
 }
 
 /* ERROR & SUCCESS */

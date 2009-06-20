@@ -8,14 +8,26 @@
 	<?php Plugins::act( 'theme_sidebar_top' ); ?>
 	<?php if ($controller_action == 'display_home'): ?>
         <?php $theme->colophon(); ?>
-        <div class="vcol" id="deliciousfeed">
+        <div class="vcol" id="findmein">
             <h3>find me in...</h3>
-            <a rel="external" href="http://www.linkedin.com/in/anupom">Linkedin</a>
-            <a rel="external" href="http://github.com/anupom">Github</a>
-            <a rel="external" href="http://twitter.com/anupom">Twitter</a>
-            <a rel="external" href="http://delicious.com/anupom">Delicious</a>
-            <a rel="external" href="http://www.slideshare.net/anupom98">Slideshare</a>
-            <a rel="external" href="http://www.google.com.bd/search?q=anupom+syam">Google</a>
+            <a title="Linked In" rel="external" href="http://www.linkedin.com/in/anupom">
+                <img alt="Linked In" src="<?php Site::out_url( 'theme' ); ?>/images/ico/linkedin.ico" />
+            </a>
+            <a title="Github" rel="external" href="http://github.com/anupom">
+                <img alt="Github" src="<?php Site::out_url( 'theme' ); ?>/images/ico/github.ico" />
+            </a>
+            <a title="Twitter" rel="external" href="http://twitter.com/anupom">
+                <img alt="Twitter" src="<?php Site::out_url( 'theme' ); ?>/images/ico/twitter.ico" />
+            </a>
+            <a title="Delicious" rel="external" href="http://delicious.com/anupom">
+                <img alt="Delicious" src="<?php Site::out_url( 'theme' ); ?>/images/ico/delicious.ico" />
+            </a>
+            <a title="Slideshare" rel="external" href="http://www.slideshare.net/anupom98">
+                <img alt="Slideshare" src="<?php Site::out_url( 'theme' ); ?>/images/ico/slideshare.ico" />
+            </a>
+            <a title="Google" rel="external" href="http://www.google.com.bd/search?q=anupom+syam">
+                <img alt="Google" src="<?php Site::out_url( 'theme' ); ?>/images/ico/google.ico" />
+            </a>
         </div>
         <?php $theme->flickrfeed(); ?>
     <?php endif ;?>
