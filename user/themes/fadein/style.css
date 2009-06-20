@@ -315,7 +315,7 @@ a:hover.entry-commentcount {
 }
 .entry-tags li {
 	display: inline;
-    background:#535456;
+    border:1px dotted #535456;
     padding:0px 3px;
     text-decoration:none;
 }
