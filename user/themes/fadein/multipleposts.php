@@ -25,7 +25,8 @@
 		<div class="clear"></div>
 	</div>
 	<div class="entry-content">
-		<?php echo $post->content_excerpt; ?>
+		<?php echo $post->content_excerpt; ?> ... 
+        <a class="more" href="<?php echo $post->permalink; ?>" title="<?php printf( _t("Continue reading %s"), $post->title ); ?>"><img src="<?php Site::out_url( 'theme' ); ?>/images/arrow.png" alt="<?php _e( "more" ); ?>"></a>
 	</div>
 </div>
 <?php endforeach; ?>

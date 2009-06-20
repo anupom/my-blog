@@ -44,7 +44,7 @@ class FadeIn extends Theme
 		//Format::apply( 'nice_date', 'comment_date', 'l, F jS, Y \a\t g:ia' );
 
 		// Truncate content excerpt at "more" or 56 characters...
-		Format::apply_with_hook_params( 'more', 'post_content_excerpt', 'Continue reading...', 256, 1 );
+		Format::apply_with_hook_params( 'more', 'post_content_excerpt', '', 256, 1 );
 	}
 
 	/**
