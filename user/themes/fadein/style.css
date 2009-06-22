@@ -749,7 +749,7 @@ pre.prettyprint{
     font-family: Helvetica,"Sans-serif", Georgia;
 }
 
-em {
+div.entry em {
     background:#535456;
     padding:0 2px;
 }
@@ -762,8 +762,13 @@ p#tagline {
     margin:-4px 0 6px 2px;
 }
 
-p#tagline span {
+p#tagline em {
     color:#CDA869;
+    font-style:normal;
+}
+
+p#tagline span {
+    color:#999;
 }
 
 p#tagline strong {
