@@ -237,8 +237,11 @@ form {
 }
 .entry-content blockquote {
 	background: url(images/quote_left.gif) left top no-repeat;
+    color: #FFF;
+    font-style:italic;
+    background-color:#222;
 	padding: 10px 0 10px 46px;
-	margin: 0 1em;
+	margin: 0.3 1em;
 }
 .entry-title,
 .entry-pubdate {
